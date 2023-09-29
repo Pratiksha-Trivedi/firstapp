@@ -1,0 +1,18 @@
+/* custom.css */
+.navbar-inverse {
+    background-color: #333; /* Change the background color */
+    border-color: #080808; /* Change the border color */
+  }
+  
+  .navbar-inverse .navbar-brand {
+    color: #fff; /* Change the brand text color */
+  }
+  
+  .navbar-inverse .navbar-nav > li > a {
+    color: #fff; /* Change the link text color */
+  }
+  
+  .navbar-inverse .navbar-nav > li > a:hover,
+  .navbar-inverse .navbar-nav > li > a:focus {
+    background-color: #555; /* Change the hover/focus background color */
+  }
